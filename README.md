@@ -29,12 +29,8 @@
 
 <h4>Leetcode stats: </h4> 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Blackcap_Hacker?theme=dark&font=Roboto&ext=heatmap"/>
+
 </p>
 
 <img  src="./borderseperator.gif">
             
-
-
-
-[![An image of @hacker4good's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hacker4good)](https://holopin.io/@hacker4good)
