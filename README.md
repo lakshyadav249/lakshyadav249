@@ -1,5 +1,5 @@
 <img align="center" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZjYTA5NjFhZTI4OTZmMzA3YTVkM2Y0MjgwYjNhMTMwZGY0ZWMwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/H4O9aVLaB1SEM/giphy.gif" width=100% />
-<h1 align="center">Hi 👋, I'm Mayank Goswami</h1>
+<h1 align="center">Hey there 👋, Maksh Yadav here!!</h1>
 
 <img  src="./borderseperator.gif">
 
