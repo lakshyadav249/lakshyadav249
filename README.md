@@ -13,11 +13,6 @@
 
 - 👀 My interest is in the field of **Data Science and Machine Learning**.
 
-- 🔭 I’m currently working on **FastAPI ⚡**, **Django** and **Streamlit Framework** for Projects.
-
-- 💻 Currently making project in the field of **Generative AI**, **Retrived Augmented Generation (RAG)**, and **Content Creation Domain**.
-            
-- 💺 I also do competitive programming on various platform using **python and C++**.
 
 - 📫 How to reach me **lakshyadav249@gmail.com**.
 
@@ -27,7 +22,8 @@
 <p align="left">
 
 
-<h4>Leetcode stats: </h4> 
+<h4>Leetcode stats:
+![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)</h4> 
 <p align="center">
 
 </p>
