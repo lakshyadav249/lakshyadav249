@@ -18,15 +18,5 @@
 
 <img  src="./borderseperator.gif">
 
-<h3 align="left">Coding Journey:</h3>
-<p align="left">
 
-
-<h4>Leetcode stats:
-![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)</h4> 
-<p align="center">
-
-</p>
-
-<img  src="./borderseperator.gif">
             
